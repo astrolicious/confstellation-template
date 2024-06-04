@@ -6,6 +6,7 @@ export default defineConfig({
 	// adapter: ADD_YOUR_ADAPTER_HERE,
 	experimental: {
 		actions: true,
+		rewriting: true,
 	},
 	integrations: [
 		Confstellation({

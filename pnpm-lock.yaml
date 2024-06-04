@@ -9,8 +9,8 @@ dependencies:
     specifier: ^0.7.0
     version: 0.7.0(typescript@5.4.5)
   '@astrolicious/confstellation':
-    specifier: ^0.0.1
-    version: 0.0.1(astro@4.9.2)
+    specifier: ^0.0.2
+    version: 0.0.2(astro@4.9.2)
   astro:
     specifier: ^4.9.2
     version: 4.9.2(typescript@5.4.5)
@@ -158,8 +158,8 @@ packages:
       - supports-color
     dev: false
 
-  /@astrolicious/confstellation@0.0.1(astro@4.9.2):
-    resolution: {integrity: sha512-0cmQ6TLTYcXhoM9Fq2uiYBAobiyjOB05VErwgfD7x0cRRuL6MH+bZKDfcVS836ay4SgLw9zkHt3LWmy6dyxyYQ==}
+  /@astrolicious/confstellation@0.0.2(astro@4.9.2):
+    resolution: {integrity: sha512-9Kk0dDhAfl0VxNHuagsY7uoUmn6zdOrmOsCmUdVgjcXGt/SV+mHrww/wFT1IOhWtD7YOlDNY7jUzqO93PfCTWQ==}
     dependencies:
       '@astrojs/mdx': 3.0.1(astro@4.9.2)
       astro-theme-provider: 0.5.0(astro@4.9.2)
